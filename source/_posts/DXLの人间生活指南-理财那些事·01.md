@@ -5,7 +5,7 @@ categories: 人间生活指南
 tags: [理财, 生活]
 index_img: /img/理财01.jpg
 banner_img: /img/理财01.jpg
-hide: false
+hide: true
 ---
 
 除了写写日常的周记之外，Sittinghere终于上新了。

@@ -9,13 +9,13 @@ banner_img: /img/桂林游记02.jpg
 
 ## Day2（10.1）
 
-![](桂林游记·Day2/621f9ee590ae5184d49ed1d185c6607.png)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/621f9ee590ae5184d49ed1d185c6607.png)
 
 ### 早9点
 
 照例早晨一碗粉，今天吃的是民宿小区外的一家粉店，相较于其他比较火一点的店，这家店全是附近的本地人来吃，质量更能得到保障。桂林米粉点单攻略：有招牌点招牌，没招牌点二两。
 
-![](桂林游记·Day2/e02ad5261ab9818ab27ad259daca75b(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/e02ad5261ab9818ab27ad259daca75b(1).jpg)
 
 好吃好吃！
 
@@ -35,7 +35,7 @@ banner_img: /img/桂林游记02.jpg
 
 车程大概一个半小时左右，有高速，进景区之后是漫长的山路。走到一个桥附近，看见有卖竹筒饭，正好也饿了，于是靠边停车休整一下。
 
-![](桂林游记·Day2/f96c28d820acbe7332667ecb1a258c3(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/f96c28d820acbe7332667ecb1a258c3(1).jpg)
 
 烤竹筒饭的妹子是在桂林上大学的学生，放假回家帮家里照顾生意。
 
@@ -43,13 +43,13 @@ banner_img: /img/桂林游记02.jpg
 
 在小溪上有一座桥，连接两座山，坐在桥上，穿堂而过的山风很是舒爽，卖竹筒饭的一家和周边的居民都是壮族，穿着很有特点，可惜忘记拍照了。
 
-![](桂林游记·Day2/63a83abdbdd2804dd70420665037647(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/63a83abdbdd2804dd70420665037647(1).jpg)
 
 继续出发，前往最大的梯田。山路很抖，也经常会和很多大巴车会车，狭路相逢，还是我让大巴为妙🙃，怎么说也把车技磨练出来了。
 
 又开了将近半个多小时，进梯田的时候大排长龙，有不少人是提着大包小包的来这里，估计是想常住沙家浜，纯粹是来这里体验山水风光的。
 
-![](桂林游记·Day2/0c8104fd6a07e96a2d891b4a1c747c8(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/0c8104fd6a07e96a2d891b4a1c747c8(1).jpg)
 
 ### 午13点
 
@@ -65,21 +65,21 @@ banner_img: /img/桂林游记02.jpg
 >
 > 梯田观景台在山的最高点，如果不坐缆车，从停车场步行上去得花一个小时，我们老年人还是乖乖坐缆车吧
 
-![](桂林游记·Day2/21e27759baa87090d7faf2494007f42(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/21e27759baa87090d7faf2494007f42(1).jpg)
 
 不得不说，风景绝对是一流，和新疆天山不一样的感觉。
 
-![](桂林游记·Day2/33f990a268739baf75d5d62fa950e3a.jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/33f990a268739baf75d5d62fa950e3a.jpg)
 
 坐了半个多小时就登顶了，上山之后就是一顿拍拍拍
 
-![](桂林游记·Day2/fd1597c1f612030534eb8ce23185a2f(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/fd1597c1f612030534eb8ce23185a2f(1).jpg)
 
 想模仿壮族人唱山歌的样子，结果表情管理没做好，像个吃小孩的二愣子。
 
 天气十分的给力，照的水稻金灿灿的，云也都十分好看，站在山顶的我非常想给谁甩个视频，想来想去还是给爸妈打了一个，美景总要有人一起来分享。
 
-![](桂林游记·Day2/efbf1368fdc951e0ff71fea4ad1d97a.jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/efbf1368fdc951e0ff71fea4ad1d97a.jpg)
 
 坐在山顶的凉亭里歇脚，起初特想抽一根烟，面对诱惑，一定要坚持达咩🙅‍♂️
 
@@ -95,7 +95,7 @@ banner_img: /img/桂林游记02.jpg
 
 开车返程了，计划在太阳落山前抵达桂林。在返程的高速上，拍到了一直想拍的圣光。
 
-![](桂林游记·Day2/df90df2b56e820d7c19889e2feecf93.jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/df90df2b56e820d7c19889e2feecf93.jpg)
 
 ### 晚18点
 
@@ -107,7 +107,7 @@ banner_img: /img/桂林游记02.jpg
 
 为什么要买flipped呢？我也不知道，可能因为电影里的女主不太正吧（bushi）
 
-![](桂林游记·Day2/8fcf982693a1d947f820a39fb0fd8ec(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/8fcf982693a1d947f820a39fb0fd8ec(1).jpg)
 
 ### 晚20点
 
@@ -123,13 +123,13 @@ banner_img: /img/桂林游记02.jpg
 >
 > 妥妥商业化后的连锁店，没什么特色，菜味道也一般，价格还不低
 
-![](桂林游记·Day2/25a7e52798e1592ed8f352613c7f33f(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/25a7e52798e1592ed8f352613c7f33f(1).jpg)
 
 ### 晚22点
 
 回到民宿，去一楼尝了一杯他们自己酿的青梅酒，记得之前看《海街日记》的时候，看着长泽雅美喝青梅酒就馋的不行，于是去接了一杯尝尝看。
 
-![](桂林游记·Day2/bb42b0d8913b47a781da11c7751397d(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/bb42b0d8913b47a781da11c7751397d(1).jpg)
 
 不太会品酒，也没什么形容词来形容味道，一个字：好喝！
 
