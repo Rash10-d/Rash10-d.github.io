@@ -5,6 +5,7 @@ tags:
 categories: Weekly Review
 index_img: /img/WR1023.jpg
 banner_img: /img/WR1023.jpg
+hide: true
 ---
 
 W-R（Weekly Review简称，下同）停更许久，Blog也在短暂的持续输出后没了踪影。没错，是创作欲见底了，以往的我兴许会为此喋喋不休，焦虑自己为什么不能像其他内容输出者一样能始终保持旺盛的创作和表达欲，现在，我慢慢理解到，创作，向来不是一种需要“坚持”来完成的事。有感而发，遂发，就这么简单。

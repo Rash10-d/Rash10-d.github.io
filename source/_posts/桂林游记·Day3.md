@@ -9,7 +9,7 @@ banner_img: /img/桂林游记03.jpg
 
 ## Day3（10.2）
 
-![](桂林游记·Day3/1633581494(1).png)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/1633581494(1).png)
 
 这一天的行程主要安排在桂林市区，吃好吃的，休闲，chill···
 
@@ -25,7 +25,7 @@ banner_img: /img/桂林游记03.jpg
 
 人气旺是有道理的，的确很好吃，两列长队排队买粉。站着才是吃粉的正确姿势，吃完一身汗，通透。
 
-![](桂林游记·Day3/3cdd6d741b64a243ac20bfbc4e18e0c(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/3cdd6d741b64a243ac20bfbc4e18e0c(1).jpg)
 
 ### 早11点
 
@@ -35,7 +35,7 @@ banner_img: /img/桂林游记03.jpg
 
 一杯冰美式+一个喵爪慕斯，挑两本书，坐一下午
 
-![](桂林游记·Day3/c00ff2b43be69c95b0436f64284c1f0(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/c00ff2b43be69c95b0436f64284c1f0(1).jpg)
 
 ### 午14点
 
@@ -49,7 +49,7 @@ banner_img: /img/桂林游记03.jpg
 >
 > 没吃过肠粉，想来尝一尝，不是很惊艳，量很足，虾仁很大
 
-![](桂林游记·Day3/7f252b7bf2cf7029f3c25215a386ea7(1).jpg)
+![](https://gitee.com/Rash10-d/figurebed/raw/master/img/7f252b7bf2cf7029f3c25215a386ea7(1).jpg)
 
 ### 午15点
 

@@ -278,6 +278,7 @@ lazyload:
 iconfont: //at.alicdn.com/t/font_1736178_kmeydafke9r.css
 
 
+
 #---------------------------
 # 页头
 # Header
@@ -1002,3 +1003,16 @@ static_prefix:
   twikoo: https://cdn.jsdelivr.net/npm/twikoo@1/dist/
 
   hint: /lib/hint/
+feed:
+  enable: true
+  type: rss2
+  path: rss2.xml
+  limit: false
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: "iconfont icon-rss"
+  autodiscovery: true
+  template:

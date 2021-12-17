@@ -105,3 +105,17 @@ deploy:
   type: git
   repo: git@101.35.85.15:/home/git/blog.git
   branch: master
+
+feed:
+  enable: true
+  type: rss2
+  path: rss2.xml
+  limit: false
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: "iconfont icon-rss"
+  autodiscovery: true
+  template:
