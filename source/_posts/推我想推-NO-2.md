@@ -2,7 +2,7 @@
 title: 推我想推 No.2
 date: 2022-01-12 10:49:57
 tags:
-categories: Recommend
+categories: 推荐
 index_img: /img/TJ02.jpg
 banner_img: /img/TJ02.jpg
 ---
@@ -25,9 +25,9 @@ banner_img: /img/TJ02.jpg
 
 每次都Fucked up的“点子王”Jeremy，爱烫头的靠谱小工kaleb，博学但理性的Cheerful Charlie······片中的人物仍然历历在目，还好Amazon续订第二季了，也就意味着还有快乐相随，开心！
 
-![](https://gitee.com/Rash10-d/figurebed/raw/master/img/42be22bff8a7069d1ae565c96b71bad.png)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/42be22bff8a7069d1ae565c96b71bad.png)
 
-![](https://gitee.com/Rash10-d/figurebed/raw/master/img/0883a9950cf7f1a0c080837a1cc27c9.png)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/0883a9950cf7f1a0c080837a1cc27c9.png)
 
 每个参与录制的人们都十分的真实，真正有幽默感的人即使面对再深邃的摄影机也能把幽默和快乐传递给他人，这是区别于其他真人秀节目的，诸如国产跑男、后几季的极限挑战。一众国产真人秀似乎太用力营造搞笑氛围，以致于让被拍摄者显得十分僵硬。
 

@@ -34,15 +34,14 @@ banner_img: /img/rewind2021.jpg
 
 奇幻又煎熬的6月，在一系列机缘巧合下收到了字节PM实习的offer。
 
-![](https://gitee.com/Rash10-d/picbed/raw/master/img/image-20211231123703662.png)
-=======
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/4b3046a0fbe5aa973fad690a9da9c92.jpg)
 
 然后就是独自踏上了北上的班机，去进行一场期待已久的探险之旅。
 
 在北京海淀知春路租房，定居，办理入职，开始工作、生活；工作、生活····
 
 有关字节和北京，想要单独开一个系列聊聊，这里就不展开叙述了。
-![](https://gitee.com/Rash10-d/picbed/raw/master/img/c1d6343f2a0fcb1d887fbebd3ae677e.jpg)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/88935cb8ffdbbcc9da307fd66774369.jpg)
 
 【从上至下，从左至右】北京盈都大厦18楼餐厅、北京盈都大厦7楼办公区、提交离职申请
 
@@ -68,8 +67,6 @@ banner_img: /img/rewind2021.jpg
 
 有些朋友很可能就是很享受孤独，享受无趣，发现我不是这类人，一间屋子里只有我是万万不行的，身边需要一个安静的，能喘气的陪伴者。但现在还是一人单打独斗，需要发现并且掌握那些能够助我抵御孤独和无趣的武器，让他们和我一起并肩战斗。
 
-有些朋友很可能就是很享受孤独，享受无趣，发现我不是这类人，一间屋子里只有我是万万不行的，身边需要一个安静的，能喘气的陪伴者。但苦于现在是一人单打独斗，需要发现并且掌握那些能够助我抵御孤独和无趣的武器，让我不是一个人在战斗。
-
 这些武器总共可以分成三类：
 
 - 让自己专注的进入，忘记痛苦和身外之物
@@ -87,7 +84,7 @@ banner_img: /img/rewind2021.jpg
 1.听单口喜剧
 
 今年的脱口秀大会、喜剧大赛都很火，但一场没看，还是喜欢去看线下的演出，这一年听了大大小小的专场、拼盘、开放麦八场有余，很开心能看到单口喜剧（脱口秀）能在国内火起来，也很高兴自己能慢慢欣赏单口喜剧这样一种艺术形式。
-![](https://gitee.com/Rash10-d/picbed/raw/master/img/37831865298d4b0968045f07703c0f0.jpg)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/2255fccfefc84317ac6c7c12541f830.jpg)
 
 【从上至下，从左至右】唐蒜铺子月度演出、西安毛冬基本无害专场、西安唐蒜铺子拼盘、北京郝雨教主拼盘、桂林可以喜剧开放麦
 
@@ -101,7 +98,7 @@ banner_img: /img/rewind2021.jpg
 
 2.自驾旅游
 
-![](https://gitee.com/Rash10-d/picbed/raw/master/img/3bb57f0d3d97271cf8eb9ca2f983733.jpg)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/9cb2b4deb7d3220e47685864a8f4897.jpg)
 
 【从上至下，从左至右】桂林-阳朔、桂林-梯田、西安翠华山、长沙-岳阳
 
@@ -136,7 +133,7 @@ banner_img: /img/rewind2021.jpg
 
 手冲咖啡是一种冲煮咖啡的形式，它能最大可能的表现出每一个原产地，每一粒咖啡豆的风味。
 
-![](https://gitee.com/Rash10-d/picbed/raw/master/img/2da29c6bcf58e6f468204acd180db3d.jpg)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/f5c1ce8b0d9cefbc3b0aed999bff572.jpg)
 
 【从上至下，从左至右】宿舍的手冲装备、北京星巴克旗舰店、长沙精品咖啡店
 
@@ -147,14 +144,13 @@ banner_img: /img/rewind2021.jpg
 2.精酿啤酒
 
 精酿啤酒是一种区别于乌苏、青岛等一众大绿棒子的工业啤酒的一种啤酒种类，英文好像叫Craftsman beer。和咖啡豆一样，每个酿酒国家都有不同的精酿风味与特点。
-![](https://gitee.com/Rash10-d/picbed/raw/master/img/034a2d9dc8519532c03c40b5a6326f5.jpg)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/63fca266f02ad46bd5048347c4fd0ec.jpg)
 
 【从上至下，从左至右】西安勿幕精酿、长沙有路精酿
 
 酒带来的麻痹和快乐自然也不用多说，看看我第一次深度微醺后的状态就知道了。
 
-![](https://gitee.com/Rash10-d/picbed/raw/master/img/65002e1de718da7711bcc29f0e222ab.jpg)
-=======
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/afa1091565a595b6c7eeb1d42451fae.jpg)
 
 #### 感受到被连接
 
@@ -162,19 +158,18 @@ banner_img: /img/rewind2021.jpg
 
 今年对谈聊天类的播客听了不少，原因就是很孤独，需要被连接起来，而聊天类的播客就可以随时随地将你连接，你任何时候都能加入主播们的对谈，听别人聊天也很快乐~
 
-![](https://gitee.com/Rash10-d/picbed/raw/master/img/693267a0f42484097896e85e9031670.jpg)
-=======
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/0c9ffacc72a1194fe79a474a03c37da.jpg)
 
 ---
 
 ## 重在体验
 
 1.自己折腾地搭建起了现在的这个博客，并且能持续地输出一些想法。终于有了一片自留地了，很舒适。
-![](https://gitee.com/Rash10-d/picbed/raw/master/img/d93d8045a522da4bddf8526e3ae4a2f.jpg)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/7f7a47b34d5a440cdb73bbc45fbe2e3.png)
 
 2.在桂林尝试讲了一次开放麦，成为社牛的一次大胆尝试🤪
 
-![](https://gitee.com/Rash10-d/picbed/raw/master/img/77b53b536aef6a1af17c595866261e2.jpg)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/1328ff25eb66b098b21728d0ed94cc6.png)
 
 3.把心里想说的话都说了出来，尽管效果不好，但重在体验嘛！
 

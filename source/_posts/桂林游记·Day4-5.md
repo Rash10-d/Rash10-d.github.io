@@ -9,7 +9,7 @@ banner_img: /img/桂林游记04.jpg
 
 ## Day4（10.3）
 
-![](https://gitee.com/Rash10-d/figurebed/raw/master/img/36f9aea889e32bd8f7fe7d7cfb39d52.png)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/36f9aea889e32bd8f7fe7d7cfb39d52.png)
 
 旅途来到了倒数第二天，今天是启程前往阳朔，早晨在小区门口吃过粉后便踏上了去阳朔的高速。
 
@@ -31,7 +31,7 @@ banner_img: /img/桂林游记04.jpg
 
 和停车场的阿姨了解到，遇龙河还有一段人少，现在还有票，可以去那里看看。
 
-![](https://gitee.com/Rash10-d/figurebed/raw/master/img/243c7b9fafd2b76a1d72ca7b79ffa67(1).jpg)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/243c7b9fafd2b76a1d72ca7b79ffa67(1).jpg)
 
 这个是在码头拍的，线路二是最火的，票卖得最快，因为它是单程，所以每天只有固定数额的票放出来。
 
@@ -41,7 +41,7 @@ banner_img: /img/桂林游记04.jpg
 
 就像这种情况，去不了更好的，稍差一点也没什么呀，时间不是很长，而且还是往返，给我们还省了很多事，这不是也很好吗？没必要过于沉浸于扫兴的不如意里，旅游，只要和你的旅伴，没有旅伴的，和你的心，在路上就足够了。
 
-![](https://gitee.com/Rash10-d/figurebed/raw/master/img/825ac21f0f2160ad720df06238df910(1).jpg)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/825ac21f0f2160ad720df06238df910(1).jpg)
 
 风景同样很好，不是吗？
 
@@ -79,7 +79,7 @@ banner_img: /img/桂林游记04.jpg
 
 十里画廊，其实是一条路贯穿整个景区，在这条路两边会分布很多个小景点，有攀岩的，有看花的，有石窟·····，只要你想看，停车买票即可前往。
 
-![](https://gitee.com/Rash10-d/figurebed/raw/master/img/475032c5eec6d0686184aec2c39cbb6(1).jpg)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/475032c5eec6d0686184aec2c39cbb6(1).jpg)
 
 真的感觉像画一样，山、水、晚风、渔舟，足以扫除一切的疲惫。
 

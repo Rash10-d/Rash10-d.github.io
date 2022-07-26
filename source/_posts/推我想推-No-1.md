@@ -2,7 +2,7 @@
 title: 推我想推 No.1
 date: 2021-12-26 15:12:14
 tags:
-categories: Recommend
+categories: 推荐
 index_img: /img/TJ01.jpg
 banner_img: /img/TJ01.jpg
 ---

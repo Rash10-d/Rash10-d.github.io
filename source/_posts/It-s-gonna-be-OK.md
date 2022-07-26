@@ -17,7 +17,7 @@ banner_img: /img/SB02.jpg
 
 当时第一次看完时，片尾的一行字幕戳中了我，便拍照记录了下来
 
-![](https://gitee.com/Rash10-d/figurebed/raw/master/img/4a39b55d26baf2e2afa2b64fe0deb7d.jpg)
+![](https://picgo-1-1307597763.cos.ap-shanghai.myqcloud.com/4a39b55d26baf2e2afa2b64fe0deb7d.jpg)
 
 为什么说这句话戳中了自己呢，因为事实确实是这样的，我再也没有交到过12岁时那样的好朋友了。
 
